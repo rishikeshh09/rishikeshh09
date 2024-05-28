@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a second-year college student passionate about
 Feel free to connect with me! Whether it's discussing development projects, sharing learning resources, or just saying hello, I'd love to hear from you.
 
 - 📧 Email: rishhh009@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile URL]
+- 💼 LinkedIn:https://www.linkedin.com/in/rishikesh09
 - 🌐 Portfolio: working on it (Will be availble shortly)
 
 ## Let's Collaborate!
