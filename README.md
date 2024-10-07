@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rishi
+# Hi there! 👋 I'm rishi
 
 Welcome to my GitHub profile! I'm a second-year college student passionate about development(Web & Android). I'm dedicated, and optimistic towards learning and growth. With excellent communication skills, I enjoy collaborating with others to create meaningful projects.
 
